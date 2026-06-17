@@ -18,12 +18,10 @@ Minha trajetória começou na área de suporte e infraestrutura, evoluindo para 
 
 - AWS
 - Citrix DaaS / CVAD
-- Netscaler
-- Linux
 - Terraform
+- Linux
+- Netscaler
 - Docker
-- Kubernetes
-- Git & GitHub
 - Networking
 - FinOps
 
@@ -32,13 +30,11 @@ Minha trajetória começou na área de suporte e infraestrutura, evoluindo para 
 🎓 <b>Certificações:</b>
 
 <p align="left"> 
-  <img src="https://images.credly.com/size/110x110/images/684f4f03-25f4-4e2a-8f49-9e6f4c4b1f4f/image.png" alt="AWS Cloud Practitioner" width="90"/> 
-  <img src="https://images.credly.com/size/110x110/images/0e8e5d4f-4d58-4d89-9875-5a0c8c0a7e2d/image.png" alt="AWS Solutions Architect Associate" width="90"/> 
-  <img src="https://images.credly.com/size/110x110/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS CloudOps Engineer Associate" width="90"/>
-  <img src="https://images.credly.com/size/110x110/images/f0d2e5d2-7b7d-4f72-8c4c-f7fda19ef18b/image.png" alt="AWS Developer Associate" width="90"/> 
-  <img src="URL_DA_BADGE_CCA_V" alt="Citrix CCA-V" width="90"/> </p>
-
-<br>
+  <img src="./assets/certifications/CloudPractitioner.png" width="100" alt="AWS Cloud Practitioner"/>
+  <img src="./assets/certifications/SolutionsArchitect.png" width="100" alt="AWS Solutions Architect Associate"/> 
+  <img src="./assets/certifications/CloudOps.png" width="100" alt="AWS SysOps Administrator Associate"/>
+  <img src="./assets/certifications/Developer.png" width="100" alt="AWS Developer Associate"/> 
+  <img src="./assets/certifications/CCA-V.png" width="100" alt="Citrix CCA-V"/> </p>
 
 📚 <b>Atualmente estudando:</b>
 
@@ -56,7 +52,7 @@ Minha trajetória começou na área de suporte e infraestrutura, evoluindo para 
 
 <br>
 
-🏈 <b>Fora da tecnologia:</b> academia, futebol americano (Seahawks 🦅💙💚🩶), games e desenvolvimento pessoal.
+🏈 <b>Fora da tecnologia:</b> academia, futebol americano (SeaHawks 🦅💙💚🩶), games e desenvolvimento pessoal.
 
 <br>
 
@@ -68,14 +64,6 @@ Minha trajetória começou na área de suporte e infraestrutura, evoluindo para 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,terraform,docker,linux,bash,python" />
-</p>
-
----
-
-<p align="center">
-  <img height="122" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=aura&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="122" src="https://streak-stats.demolab.com/?user=SEU_USUARIO_GITHUB&theme=aura&hide_border=true" />
-  <img height="122" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=aura&hide_border=true&langs_count=8" />
 </p>
 
 ---
