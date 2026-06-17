@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Olá ☁️, seja bem-vindo(a)!</h1>
 
 <h3 align="center">
@@ -100,5 +99,4 @@ Minha trajetória começou na área de suporte e infraestrutura, evoluindo para 
 
 <br clear="both">
 
----
-```
+
