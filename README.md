@@ -1,12 +1,12 @@
 <h1 align="center">Olá ☁️, seja bem-vindo(a)!</h1>
 
 <h3 align="center">
-Cloud Analyst @ Populos · AWS Certified · Citrix · Linux · Terraform · Cloud Engineering
+Cloud Analyst @ Populos · AWS · Citrix · Linux · Terraform · Cloud Engineering
 </h3>
 
 ---
 
-Sou <b>Pedro Henrique Andrade Teixeira</b>, profissional de tecnologia com foco em <b>Cloud Computing, Virtualização e Infraestrutura</b>.
+Sou profissional de tecnologia com foco em <b>Cloud Computing, Virtualização e Infraestrutura</b>.
 
 Atualmente atuo como <b>Cloud Analyst na Populos</b>, trabalhando com ambientes corporativos de alta disponibilidade, sustentação e troubleshooting em tecnologias como <b>AWS, Citrix, Netscaler, Linux e soluções de Virtualização</b>.
 
@@ -33,17 +33,17 @@ Minha trajetória começou na área de suporte e infraestrutura, evoluindo para 
 
 - AWS Certified Cloud Practitioner
 - AWS Certified Solutions Architect – Associate
-- AWS Certified SysOps Administrator – Associate
+- AWS Certified CloudOps Engineer – Associate
+- AWS Certified Developer - Associate
 - Citrix Certified Associate – Virtualization
 
 <br>
 
 📚 <b>Atualmente estudando:</b>
 
-- Kubernetes / Amazon EKS
+- Kubernetes
 - Terraform
 - DevOps & GitOps
-- Linux LPIC-1
 - Arquitetura Cloud
 
 <br>
