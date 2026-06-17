@@ -31,11 +31,12 @@ Minha trajetória começou na área de suporte e infraestrutura, evoluindo para 
 
 🎓 <b>Certificações:</b>
 
-- AWS Certified Cloud Practitioner
-- AWS Certified Solutions Architect – Associate
-- AWS Certified CloudOps Engineer – Associate
-- AWS Certified Developer - Associate
-- Citrix Certified Associate – Virtualization
+<p align="left"> 
+  <img src="https://images.credly.com/size/110x110/images/684f4f03-25f4-4e2a-8f49-9e6f4c4b1f4f/image.png" alt="AWS Cloud Practitioner" width="90"/> 
+  <img src="https://images.credly.com/size/110x110/images/0e8e5d4f-4d58-4d89-9875-5a0c8c0a7e2d/image.png" alt="AWS Solutions Architect Associate" width="90"/> 
+  <img src="https://images.credly.com/size/110x110/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS CloudOps Engineer Associate" width="90"/>
+  <img src="https://images.credly.com/size/110x110/images/f0d2e5d2-7b7d-4f72-8c4c-f7fda19ef18b/image.png" alt="AWS Developer Associate" width="90"/> 
+  <img src="URL_DA_BADGE_CCA_V" alt="Citrix CCA-V" width="90"/> </p>
 
 <br>
 
@@ -50,12 +51,12 @@ Minha trajetória começou na área de suporte e infraestrutura, evoluindo para 
 
 🌎 <b>Idiomas:</b>
 
-- Português: Nativo
-- Inglês: Intermediário
+ Português | 🇧🇷
+ English | 🇺🇸
 
 <br>
 
-🏈 <b>Fora da tecnologia:</b> academia, futebol americano, games e desenvolvimento pessoal.
+🏈 <b>Fora da tecnologia:</b> academia, futebol americano (Seahawks 🦅💙💚🩶), games e desenvolvimento pessoal.
 
 <br>
 
@@ -66,7 +67,7 @@ Minha trajetória começou na área de suporte e infraestrutura, evoluindo para 
 <h3 align="left">Linguagens e Ferramentas</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux,git,github,bash,python" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,linux,bash,python" />
 </p>
 
 ---
@@ -84,15 +85,15 @@ Minha trajetória começou na área de suporte e infraestrutura, evoluindo para 
 <h3 align="left">Siga-me nas redes sociais</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="blank">
+  <a href="https://www.linkedin.com/in/pedro-at/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="35" />
   </a>
 
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:pedrohenriqueandradeteixeira@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="35" />
   </a>
 
-  <a href="https://github.com/SEU_USUARIO_GITHUB" target="blank">
+  <a href="https://github.com/PedroAndrade-cmd" target="blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" height="35" />
   </a>
 </p>
