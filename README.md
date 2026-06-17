@@ -6,11 +6,19 @@ Cloud Analyst @ Populos · AWS · Citrix · Linux · Terraform · Cloud Engineer
 
 ---
 
-Sou profissional de tecnologia com foco em <b>Cloud Computing, Virtualização e Infraestrutura</b>.
+Sou profissional de tecnologia com foco em Cloud Computing, Virtualização e Infraestrutura.
 
-Atualmente atuo como <b>Cloud Analyst na Populos</b>, trabalhando com ambientes corporativos de alta disponibilidade, sustentação e troubleshooting em tecnologias como <b>AWS, Citrix, Netscaler, Linux e soluções de Virtualização</b>.
+Atualmente atuo como Cloud Analyst na Populos, trabalhando com ambientes corporativos de alta disponibilidade, sustentação e troubleshooting. Possuo 4 certificações AWS e a certificação Citrix Certified Associate – Virtualization (CCA-V), consolidando conhecimentos em arquitetura, operações, desenvolvimento e virtualização de ambientes corporativos.
 
-Minha trajetória começou na área de suporte e infraestrutura, evoluindo para projetos de Cloud e Virtualização. Hoje estou focado em desenvolver minhas habilidades para atuar como <b>Cloud Engineer</b>, aprofundando conhecimentos em automação, arquitetura de soluções, containers e práticas DevOps.
+Em Cloud Computing, participo de iniciativas relacionadas à governança, segurança, otimização de custos (FinOps), recuperação de desastres (Disaster Recovery), alta disponibilidade e sustentação de ambientes produtivos, contribuindo para a operação e evolução de infraestruturas críticas em nuvem.
+
+Também atuo na sustentação e troubleshooting de ambientes corporativos utilizando Citrix DaaS, CVAD, Netscaler e soluções de virtualização, garantindo disponibilidade, performance e continuidade operacional para ambientes críticos.
+
+Tenho experiência atuando em clientes corporativos de diferentes segmentos, participando de atividades de sustentação, troubleshooting avançado, documentação técnica, análise de incidentes e implementação de melhorias em plataformas de Cloud e Virtualização.
+
+Atualmente concentro meus estudos em Kubernetes, Terraform, Linux e Arquitetura Cloud, aprofundando conhecimentos em automação, containers, observabilidade e boas práticas de engenharia de infraestrutura.
+
+🎓 Graduando em Sistemas de Informação pela Universidade Anhembi Morumbi (UAM).
 
 <br>
 
@@ -47,7 +55,7 @@ Minha trajetória começou na área de suporte e infraestrutura, evoluindo para 
 
 🌎 <b>Idiomas:</b>
 
- Português | 🇧🇷
+ Português | 🇧🇷 </p>
  English | 🇺🇸
 
 <br>
