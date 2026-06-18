@@ -16,7 +16,7 @@ Também atuo na sustentação e troubleshooting de ambientes corporativos utiliz
 
 Tenho experiência atuando em clientes corporativos de diferentes segmentos, participando de atividades de sustentação, troubleshooting avançado, documentação técnica, análise de incidentes e implementação de melhorias em plataformas de Cloud e Virtualização.
 
-Atualmente concentro meus estudos em Kubernetes, Terraform, Linux e Arquitetura Cloud, aprofundando conhecimentos em automação, containers, observabilidade e boas práticas de engenharia de infraestrutura.
+Atualmente concentro meus estudos em Docker, Terraform, Linux e Arquitetura Cloud, aprofundando conhecimentos em automação, containers, observabilidade e boas práticas de engenharia de infraestrutura.
 
 🎓 Graduando em Sistemas de Informação pela Universidade Anhembi Morumbi (UAM).
 
